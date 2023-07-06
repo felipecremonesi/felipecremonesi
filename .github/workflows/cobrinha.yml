@@ -1,4 +1,4 @@
-name: felipecremonesi
+name: Generate Datas
 
 on:
   schedule: # execute every 24 hours
