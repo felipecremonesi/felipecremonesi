@@ -1,4 +1,4 @@
-### HI]i 👋
+### Hi 👋
 Just a Computer Science student, always trying to learn new things 😁
 
 <picture>
