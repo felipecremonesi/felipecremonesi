@@ -1,7 +1,7 @@
 ### HI]i 👋
 Just a Computer Science student, always trying to learn new things 😁
 
-![snake gif](https://github.com/felipecremonesi/felipecremonesi/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/felipecremonesi/felipecremonesi/blob/output/github-contribution-grid-snake.gif)
 
 <p align="center">Visitantes:</p>
 <p align="center"><img align="center"src="https://profile-counter.glitch.me/felipecremonesi/count.svg"/></p>
