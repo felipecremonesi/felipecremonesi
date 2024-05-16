@@ -1,5 +1,5 @@
-### Olá 👋
-Apenas um estudande de Ciência da Computação, sempre tentando aprender novas coisas 😁
+### HI]i 👋
+Just a Computer Science student, always trying to learn new things 😁
 
 ![snake gif](https://github.com/felipecremonesi/felipecremonesi/blob/output/github-contribution-grid-snake.svg)
 <p align="center">Visitantes:</p>
