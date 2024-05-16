@@ -1,13 +1,8 @@
 ### HI]i 👋
 Just a Computer Science student, always trying to learn new things 😁
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/felipecremonesi/felipecremonesi/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/felipecremonesi/felipecremonesi/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/felipecremonesi/felipecremonesi/output/github-contribution-grid-snake.svg">
-</picture>
+![generate animation](https://github.com/felipecremonesi/felipecremonesi/blob/output/github-contribution-grid-snake.svg)
 
-![snake gif](https://github.com/felipecremonesi/felipecremonesi/blob/output/github-contribution-grid-snake.svg)
 <p align="center">Visitantes:</p>
 <p align="center"><img align="center"src="https://profile-counter.glitch.me/felipecremonesi/count.svg"/></p>
 
