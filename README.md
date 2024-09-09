@@ -25,12 +25,6 @@ Just a Computer Science student, always trying to learn new things 😁
   <img align="center"  height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"/>
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/felipecremonesi/felipecremonesi/output/snake.svg" alt="Snake animation" />
-
-###
-
 ##
 
 <div> 
