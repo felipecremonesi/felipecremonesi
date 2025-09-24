@@ -7,8 +7,6 @@ Just a Computer Science student, always trying to learn new things 😁
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/felipecremonesi/felipecremonesi/output/github-contribution-grid-snake.svg">
 </picture>
 
-<p align="center">Visitantes:</p>
-<p align="center"><img align="center"src="https://profile-counter.glitch.me/felipecremonesi/count.svg"/></p>
 
 <div style="display: inline_block"><br>
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -22,7 +20,7 @@ Just a Computer Science student, always trying to learn new things 😁
   <img align="center"  height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" />
   <img align="center"  height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"/>
   <img align="center"  height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"/>
-  <img align="center"  height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"/>
+  <img align="center"  height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
 </div>
 
 ##
