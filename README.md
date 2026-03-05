@@ -1,5 +1,4 @@
 ### Hi 👋
-Just a Computer Science student, always trying to learn new things 😁
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/felipecremonesi/felipecremonesi/output/github-contribution-grid-snake-dark.svg">
